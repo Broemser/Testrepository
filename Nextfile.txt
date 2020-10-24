@@ -1,1 +1,3 @@
 This is a new file that gets uploaded to GitHub
+
+I added a new line to it.
